@@ -1,6 +1,8 @@
-# Audio & Middleware Tools
+## Tooling.GG Archive
 
-A curated list of audio software, engines and tools with taxonomy, tags and compatibility.
+An archived version of list of tools that was created by Henry/\_hwas\_ and Tooling.gg community.
+I am not an original creator of this list and i do not actively maintain it.
+
 
 ## [audiokinetic - wwise](https://www.audiokinetic.com/en/wwise/overview)
 
