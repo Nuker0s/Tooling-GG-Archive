@@ -1,6 +1,6 @@
 ## Tooling.GG Archive
 
-An archived version of list of tools that was created by Henry/\_hwas\_ and Tooling.gg community.
+An archived version of list of tools that was created by Henry and Tooling.gg community.
 I am not an original creator of this list and i do not actively maintain it.
 
 
